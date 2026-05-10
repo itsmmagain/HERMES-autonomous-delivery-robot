@@ -39,8 +39,9 @@ Build a reliable autonomous mobile robot that can navigate office environments w
 ## Getting Started
 1. Read [`docs/project-proposal.md`](docs/project-proposal.md)
 2. Review [`docs/design-specifications.md`](docs/design-specifications.md)
-3. Check hardware bill of materials in [`hardware/bill-of-materials.md`](hardware/bill-of-materials.md)
-4. Follow software module breakdown in [`software/README.md`](software/README.md)
+3. Review engineering assumptions and computations in [`docs/design-calculations.md`](docs/design-calculations.md)
+4. Check hardware bill of materials in [`hardware/bill-of-materials.md`](hardware/bill-of-materials.md)
+5. Follow software module breakdown in [`software/README.md`](software/README.md)
 
 ## Contributing
 See [`CONTRIBUTING.md`](CONTRIBUTING.md).

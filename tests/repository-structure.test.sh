@@ -8,6 +8,7 @@ required_paths=(
   "docs/project-proposal.md"
   "docs/literature-review.md"
   "docs/design-specifications.md"
+  "docs/design-calculations.md"
   "docs/system-architecture.md"
   "docs/project-timeline.md"
   "hardware/bill-of-materials.md"

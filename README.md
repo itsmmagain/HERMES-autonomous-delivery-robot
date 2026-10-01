@@ -1,1 +1,0 @@
-# HERMES-autonomous-delivery-robot
